@@ -4,8 +4,8 @@ body{
     background-position-y: -80%;
 }
 h1{
-    color: goldenrod;
     text-align: center;
+    color: goldenrod;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-shadow: black 3px 2px 3px;
 }
