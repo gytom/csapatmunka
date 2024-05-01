@@ -1,5 +1,5 @@
 body{
-    background-image: url("331608_Background for a fantasy library  _xl-1024-v1-0.png");
+    background-image: url("kepek/331607_Background\ for\ a\ fantasy\ library\ \ _xl-1024-v1-0.png");
     background-size: 100%;
     background-position-y: -80%;
 }
@@ -12,8 +12,9 @@ h1{
 }
 p{
     color: wheat;
-    text-shadow: black 2px 2px 2px ;
+    font-size: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: black 2px 2px 2px;
     margin-left: 200px;
     margin-right: 200px;
 }
@@ -34,4 +35,5 @@ button{
     margin-left: 40px;
     font-size: 15px;
     margin-right: 10px;
+    font-size:30px
 }
